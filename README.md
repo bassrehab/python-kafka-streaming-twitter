@@ -68,9 +68,7 @@ Open browser and go to local yarn resource manager: http://localhost:8088/cluste
 ### LICENSE
 See license.txt
 
-
-
-
+Feel free to reach me if you have any queries.
 
 
 

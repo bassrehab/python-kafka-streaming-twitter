@@ -7,11 +7,18 @@ This is a distributed streaming application that reads tweets from twitter using
 
 ### RUNNING THE CODE
 
-### 1. make sure JAVA_HOME is set in .bashrc, use printev to check.
+### 1.Prerequisites
+ a) make sure JAVA_HOME is set in .bashrc, use printev to check.
 ```
 printenv
 ```
-Make sure you have write persmission in /home directory or wherever you are cloning the repo.
+
+b) Make sure you have write persmission in /home directory or wherever you are cloning the repo.
+```
+git clone https://github.com/bassrehab/python-kafka-streaming-twitter.git
+```
+
+c) Create a twitter app and fetch consumer token, secrets etc.
 
 
 ### 2.Build Samza distribution artifacts in deploy directory

@@ -1,0 +1,14 @@
+.settings
+.project
+.idea
+target
+*.class
+*.jar
+*.iml
+.classpath
+*.tar.gz
+*.tgz
+lib
+bin
+conf
+

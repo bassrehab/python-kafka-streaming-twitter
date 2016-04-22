@@ -72,6 +72,10 @@ Open browser and go to local yarn resource manager: http://localhost:8088/cluste
 /home/deploy/kafka/bin/kafka-console-consumer.sh --zookeeper localhost:2181 --topic tweets-parsed
 ```
 
+### NEXT
+Use live streams to analyze trends, geographical data modelling and implement deep learning algos
+
+
 ### LICENSE
 See license.txt
 

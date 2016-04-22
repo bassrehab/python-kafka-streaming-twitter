@@ -1,4 +1,4 @@
-# Parse tweets using Kafka stream using Yarn
+# Parse tweets using Kafka stream with Yarn/Samza
 
 This is a distributed streaming application that reads tweets from twitter using Python, and pipes it to Kafka streams. Jobs are run using Yarn, Samza and Zookeeper on Hadoop 2.0
 
